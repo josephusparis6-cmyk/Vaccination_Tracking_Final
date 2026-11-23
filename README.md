@@ -4,7 +4,7 @@
 **Assignment:** Real-World Solutions under Digital Public Goods (DPG) Standards  
 **Institution:** Limkokwing University of Creative Technology, Sierra Leone  
 **Student:** Josephus P Paris
-**Project type:** Python console application (educational demonstration)
+**Project type:** Python console application 
 
 ## Project overview
 
@@ -55,8 +55,7 @@ The menu displays:
 ================================================
 ```
 
-## Sample input and output (fictional example)
-
+## Sample input and output
 Example registration inputs (enter these after choosing menu option `1`):
 
 ```text
@@ -154,12 +153,3 @@ Vaccination_Tracking_Final/
 - Date input is text; this is not a clinical validation system.
 - No real vaccination status, identity, or medical record is verified.
 
-## Submission instructions from the assignment brief
-
-1. Upload `vaccination.py`, `README.md`, and `LICENSE` to a GitHub repository.
-2. Show sample input/output in the README (already included).
-3. Add the lecturer as a GitHub collaborator using the **correct username provided by the lecturer**.
-4. Run the code and capture authentic screenshots for the hard-copy report.
-5. Submit the required hard copy with screenshots. The brief specifies **Tahoma, font size 10, line spacing 1.15, justified alignment**.
-
-**Note:** The lecturer's brief does not expressly require a license file or `.gitignore`. `LICENSE` is retained to support the open-source principle; `.gitignore`, separate sample output, and separate test files have been intentionally excluded from this simplified package.
